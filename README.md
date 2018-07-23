@@ -1,4 +1,4 @@
-# GoMadCSVtoJSONConvert
+dir# GoMadCSVtoJSONConvert
 
 **Warning** I'm new to go - feel free to improve/fix!
 
@@ -13,11 +13,11 @@ You can modify it to suit your report requirements. Currently its configured to 
 
 Reports should reside within a directory relative to where the go program is execute from (you can modify this)
 
-...
+```
 goMadCSVtoJSONConvert
 data/hosta.20180721.reporta.csv
 data/hostb.20180721.reporta.csv
-...
+```
 
 ### Installing
 
